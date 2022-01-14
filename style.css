@@ -1,0 +1,33 @@
+body{
+    margin-left: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+header h2{
+    margin-left: 5%;
+    padding-top: 50px;
+}
+
+
+.width{
+    width: 40%;
+    float: left; 
+    margin-left: 5%; 
+     
+    
+}
+#enter{
+    padding-top: 50px;
+}
+#cam{
+    
+    margin-right: 30px;
+}
+.button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
